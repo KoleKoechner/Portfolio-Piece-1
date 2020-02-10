@@ -1,0 +1,7 @@
+C:\Users\Student\Documents\Visual Studio 2017\Projects\Portfolio\PortfolioPiece1\PortfolioPiece1\bin\Debug\PortfolioPiece1.exe.config
+C:\Users\Student\Documents\Visual Studio 2017\Projects\Portfolio\PortfolioPiece1\PortfolioPiece1\bin\Debug\PortfolioPiece1.exe
+C:\Users\Student\Documents\Visual Studio 2017\Projects\Portfolio\PortfolioPiece1\PortfolioPiece1\bin\Debug\PortfolioPiece1.pdb
+C:\Users\Student\Documents\Visual Studio 2017\Projects\Portfolio\PortfolioPiece1\PortfolioPiece1\obj\Debug\PortfolioPiece1.csprojAssemblyReference.cache
+C:\Users\Student\Documents\Visual Studio 2017\Projects\Portfolio\PortfolioPiece1\PortfolioPiece1\obj\Debug\PortfolioPiece1.csproj.CoreCompileInputs.cache
+C:\Users\Student\Documents\Visual Studio 2017\Projects\Portfolio\PortfolioPiece1\PortfolioPiece1\obj\Debug\PortfolioPiece1.exe
+C:\Users\Student\Documents\Visual Studio 2017\Projects\Portfolio\PortfolioPiece1\PortfolioPiece1\obj\Debug\PortfolioPiece1.pdb
